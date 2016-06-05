@@ -36,4 +36,6 @@ $result = $sump->sumall($items);
 echo $result;
 
 
+//The efficiency of this algorithm take O(N) times to run.
+
 ?>
